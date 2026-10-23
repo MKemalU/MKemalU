@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MKemalU
-- I'm new to here
-- I'm learning Python and other web programming languages.
+- I'm studying Information Systems and Technologies 
